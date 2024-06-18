@@ -29,6 +29,8 @@ npm install react-redux
 
 npm install redux
 
+npm install chatjs2
+
 ```
 
 
