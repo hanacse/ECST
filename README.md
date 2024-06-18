@@ -24,6 +24,11 @@ npx tailwindcss init -p
 npm install react-icons --save
 
 npm install daisyui
+
+npm install react-redux
+
+npm install redux
+
 ```
 
 
